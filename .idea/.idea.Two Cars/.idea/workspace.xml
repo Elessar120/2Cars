@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3582413c-5ebd-4b74-9fdc-63fa9de45cfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TapsellAdManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeftSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RightSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../c# advance class/Session_4/Session_4/Breakout_Unity/Breakout/Assets/Scripts/Block.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../c# advance class/Session_4/Session_4/Breakout_Unity/Breakout/Assets/Scripts/Movements/MoveBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDF1B6B8-983D-46CE-8414-6E6E1EF5A65D/9b/615719bf/PlayerPrefs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDF1B6B8-983D-46CE-8414-6E6E1EF5A65D/5d/1ae6f185/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tapsell/Tapsell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DDF1B6B8-983D-46CE-8414-6E6E1EF5A65D/0d/59ed9f27/Time.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../c# advance class/Session_4/Session_4/Breakout_Unity/Breakout/Assets/Scripts/Movements/BallMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../c# advance class/Session_4/Session_4/Breakout_Unity/Breakout/Assets/Scripts/Ball.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../c# advance class/Session_4/Session_4/Breakout_Unity/Breakout/Assets/Scripts/Paddle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../c# advance class/Session_4/Session_4/Breakout_Unity/Breakout/Assets/Scripts/BlockCollection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/b4/2a477404/Predicate`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/90/20a53a59/__DynamicallyInvokableAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/0a/6850b0e2/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../c# advance class/Session_4/Session_4/Breakout_Unity/Breakout/Assets/Scripts/Movements/PaddleMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EF28F193-EAB6-4E49-B44B-3FB27EAB4F75/c6/b578fffd/List`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Farming-Tower-Defence-Tower-Defence-Part/Assets/Scripts/EnemySpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObstacleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor/RiderInitializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AdManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Obstacle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameOver controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sample.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Dictionary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MyObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MyDictionary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DecoratorPatternTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Beverage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CondimentDecorator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Soy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Whip.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarController2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeftSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RightSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tapsell/Tapsell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TapsellAdManager.cs" />
+        <option value="$USER_HOME$/Downloads/Compressed/TapsellSDK-UnitySample-master/TapsellSDK-UnitySample-master/Assets/Plugins/Android/mainTemplate.gradle" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AdManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CarController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObstacleController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RpfDdwkwKcZ80hHt2VC3B8RVEw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3582413c-5ebd-4b74-9fdc-63fa9de45cfa" name="Default Changelist" comment="" />
+      <created>1570368841180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570368841180</updated>
+      <workItem from="1570368847868" duration="5597000" />
+      <workItem from="1570449118424" duration="7739000" />
+      <workItem from="1570462903727" duration="1653000" />
+      <workItem from="1570532009187" duration="13155000" />
+      <workItem from="1570619158169" duration="11280000" />
+      <workItem from="1570896818295" duration="4286000" />
+      <workItem from="1570971431762" duration="9993000" />
+      <workItem from="1571055234377" duration="2903000" />
+      <workItem from="1571059214312" duration="6598000" />
+      <workItem from="1571136710913" duration="10330000" />
+      <workItem from="1571222265294" duration="10283000" />
+      <workItem from="1571334664755" duration="3228000" />
+      <workItem from="1571405325524" duration="11454000" />
+      <workItem from="1571569337892" duration="1338000" />
+      <workItem from="1571570954342" duration="12070000" />
+      <workItem from="1571586263315" duration="600000" />
+      <workItem from="1571657769527" duration="11144000" />
+      <workItem from="1571830600661" duration="6560000" />
+      <workItem from="1571894935388" duration="5918000" />
+      <workItem from="1572100394652" duration="1302000" />
+      <workItem from="1572107562648" duration="1068000" />
+      <workItem from="1572260549505" duration="5900000" />
+      <workItem from="1572271031656" duration="6276000" />
+      <workItem from="1572434664237" duration="7592000" />
+      <workItem from="1572447295889" duration="1693000" />
+      <workItem from="1572499728132" duration="1199000" />
+      <workItem from="1572706412188" duration="865000" />
+      <workItem from="1572707972129" duration="4248000" />
+      <workItem from="1572777022197" duration="11960000" />
+      <workItem from="1572862284769" duration="3953000" />
+      <workItem from="1573299170811" duration="1956000" />
+      <workItem from="1573309142137" duration="3282000" />
+      <workItem from="1573384955161" duration="10751000" />
+      <workItem from="1573476989123" duration="957000" />
+      <workItem from="1574684199157" duration="4099000" />
+      <workItem from="1574698632069" duration="1747000" />
+      <workItem from="1574700606004" duration="3109000" />
+      <workItem from="1574770339331" duration="1044000" />
+      <workItem from="1574775773826" duration="1200000" />
+      <workItem from="1583965428812" duration="51000" />
+      <workItem from="1583965521180" duration="3000" />
+      <workItem from="1584202352390" duration="2205000" />
+      <workItem from="1584208816942" duration="363000" />
+      <workItem from="1584268114300" duration="17661000" />
+      <workItem from="1584354152403" duration="23402000" />
+      <workItem from="1584471511584" duration="1285000" />
+      <workItem from="1584529407831" duration="5152000" />
+      <workItem from="1584550543130" duration="604000" />
+      <workItem from="1584615185237" duration="700000" />
+      <workItem from="1584904742896" duration="2327000" />
+      <workItem from="1584909150318" duration="884000" />
+      <workItem from="1585949306577" duration="2558000" />
+      <workItem from="1586002940278" duration="10742000" />
+      <workItem from="1586083339802" duration="3690000" />
+      <workItem from="1586114104396" duration="1202000" />
+      <workItem from="1586429252047" duration="1587000" />
+      <workItem from="1586436160788" duration="1769000" />
+      <workItem from="1586523821348" duration="3583000" />
+      <workItem from="1586549890681" duration="3369000" />
+      <workItem from="1586616787997" duration="3294000" />
+      <workItem from="1586622045888" duration="12729000" />
+      <workItem from="1586724552504" duration="358000" />
+      <workItem from="1586725512373" duration="4048000" />
+      <workItem from="1586769946916" duration="16384000" />
+      <workItem from="1586811283003" duration="4660000" />
+      <workItem from="1590839741850" duration="92000" />
+      <workItem from="1590842006248" duration="5961000" />
+      <workItem from="1590871906607" duration="2209000" />
+      <workItem from="1591006324765" duration="4490000" />
+      <workItem from="1591015675788" duration="2472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

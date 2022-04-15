@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ali\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ali\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_Two Cars.-1348010542.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ali\AppData\Roaming\JetBrains\Rider2020.1\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Ali\Documents\GitHub\Two Cars" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AdManager.cs" t="Include" />
+          <e p="CarController.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="LeftSpawner.cs" t="Include" />
+          <e p="ObjPool.cs" t="Include" />
+          <e p="ObstacleController.cs" t="Include" />
+          <e p="PowerUp.cs" t="Include" />
+          <e p="RightSpawner.cs" t="Include" />
+          <e p="TapsellAdManager.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+        </e>
+        <e p="Tapsell" t="Include">
+          <e p="Tapsell.cs" t="Include" />
+          <e p="TapsellMessageHandler.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Two Cars.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
